@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+# reports/
+test-results/
+.playwright-mcp/console-2026-11-12T13-00-15-601Z.log
